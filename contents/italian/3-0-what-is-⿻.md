@@ -32,6 +32,13 @@ Data questa ricca definizione e il modo in cui fonde insieme elementi del mandar
 In inglese questo può essere letto in una varietà di modi a seconda del contesto:
 
 - Come "Pluralità" tipicamente quando usato come concetto;[^Taiwan]
-- Come "digital", "plural", "shuwei", "digital/plural" o anche come una gamma di altre cose come "intersectional", "collaborative" o "networked" quando usato come aggettivo;
+- Come "digitale", "plurale", "shuwei", "digitale/plurale", o anche come una serie di altre cose come "intersezionale", "collaborativo" o "in rete" quando usato come aggettivo;
 
-Nessuna di queste parole esistenti cattura perfettamente questo insieme di idee, e quindi, in alcuni casi, si potrebbe semplicemente dire "overlap" o "overlapping" per descriverlo
+Nessuna di queste parole esistenti cattura perfettamente questo insieme di idee e quindi, in alcuni casi, si potrebbe semplicemente dire “(in) sovrapposizione” per descriverlo letteralmente.  Il resto del libro descrive più approfonditamente il contenuto, la visione e l'ambizione di ⿻.
+
+[^Taiwan]: Si noti che ⿻ potrebbe anche essere usato per rappresentare i significati strettamente sovrapposti delle interpretazioni di Audrey delle due varianti standard del nome della sua giurisdizione, evitando il conflitto tra ROC e Taiwan.  Tuttavia, lasceremo questa osservazione a qualcun altro, dato il rischio di creare troppa ambiguità nel significato di ⿻.
+
+[^Arendt]: Hannah Arendt, _The Human Condition_, (Chicago: University of Chicago Press, 1958).
+[^Allen]: Danielle Allen, “Chapter 2: Toward a Connected Society”, in In Our Compelling Interests, (Princeton: Princeton University Press, 2017), https://doi.org/10.1515/9781400881260-006.
+[^Audrey]: “View Section: 2020-10-07 Interview with Azeem Azhar", SayIt, https://sayit.pdis.nat.gov.tw/2020-10-07-interview-with-azeem-azhar#s433950, 2020.
+
