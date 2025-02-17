@@ -14,6 +14,7 @@ All materials in this repo and in all other parts of this project (unless explic
 
 To cite this text, you can use this bibtex as a sample
 
+```bibtex
 @online{plurality2023,
   title={Plurality: The Future of Collaborative Technology and Democracy},
   author={Weyl, E. Glen and Tang, Audrey and {the Plurality Community}},
@@ -21,6 +22,7 @@ To cite this text, you can use this bibtex as a sample
   url={https://github.com/pluralitybook/plurality/blob/main/contents/english},
   publisher={GitHub},
 }
+```
 
 # Identity and credit
 
@@ -57,7 +59,7 @@ At the same time, we expect there to be far more engagement than any small group
 
 All governance functions will harness both the qualitative and quantitative tokens discussed above.  Governance will harness a range of approaches, from formal voting to informal discussions.  We will aim to harness as many of the tools we describe in the book as possible, to show as well as tell the book's message.  Governance will address the full range of issues in the project's development: the evolution of all repositories, decisions about the physical publication process, etc.  Initially, community input will be advisory and this will remain the case in final decisions until the book is physically printed.  
 
-However, we aim to harness Gov4Git to turn the process over to full and direct community control after the printing of the first edition of the physical books.  While this milestone marks a point at which we aim to make the formal transition, we hope for this process to be gradual: we hope that overtime we rely more and more on the community to guide every decision and that our oversight becomes more of a formalism.  We plan to incorporate additional governance elements to aid this transition over time, such as signals from the community of the value of various contributions which we can then approve.  To get a sense of the kinds of governance structures we hope to employ, please visit the RadicalxChange website (http://www.radicalxchange.org).  We will include more details linked here as we have a clearer sense of precisely how we will use these elements.
+However, we aim to harness Gov4Git to turn the process over to full and direct community control after the printing of the first edition of the physical books.  While this milestone marks a point at which we aim to make the formal transition, we hope for this process to be gradual: we hope that over time we rely more and more on the community to guide every decision and that our oversight becomes more of a formalism.  We plan to incorporate additional governance elements to aid this transition over time, such as signals from the community of the value of various contributions which we can then approve.  To get a sense of the kinds of governance structures we hope to employ, please visit the RadicalxChange website (http://www.radicalxchange.org).  We will include more details linked here as we have a clearer sense of precisely how we will use these elements.
 
 # Financial goals
 
@@ -82,7 +84,7 @@ Active translation communities and repositories
 - Ukrainian: https://github.com/vlree-alt/plurality-ukrainian
 - Japanese: https://github.com/nishio/plurality-japanese
 - German: https://github.com/GermanPluralityBook/pluralitaet 
-- Korean: https://github.com/hopelee327/plurality-korean
+- Korean: https://github.com/parkhaewon0617/plurality
 - French: https://github.com/xitobal/radicalxchangeparis.github.io/tree/main/public/Plurality%2C%20le%20livre%20-%20G%20Weil
 
 # Summary and next steps
