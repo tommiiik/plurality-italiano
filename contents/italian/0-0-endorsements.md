@@ -1,8 +1,6 @@
 # Endorsement
 
->
 
->
 
 > Nella vasta, sconfinata distesa di *Plurality*, ogni vita è un'esistenza unica e preziosa... Indipendentemente da quanto pericolose possano essere le circostanze esterne... prendiamo un'azione positiva per permettere ai semi della bontà condivisa di spuntare dalla terra e sbocciare in fiori di empatia, gioia e armonia.<br></br>
 — Sua Santità il [Dalai Lama XIV](https://www.dalailama.com/) del Tibet
